@@ -36,3 +36,6 @@ pip install streamlit openai python-dotenv
 ```
 
 3. Crie um arquivo `.env` na raiz do projeto com sua chave da API da OpenAI:
+
+4. <img width="1492" height="773" alt="Captura de tela 2026-07-13 090626" src="https://github.com/user-attachments/assets/02fb1d15-29e1-4c1d-be6a-7c0535cebeec" />
+
